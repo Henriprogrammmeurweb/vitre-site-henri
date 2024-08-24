@@ -491,6 +491,7 @@ footer {
 
     .form-contact form {
         width: 96%;
+        text-align: center;
     }
 
     .form-contact .adresse {
